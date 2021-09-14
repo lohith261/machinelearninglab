@@ -1,0 +1,67 @@
+not regular,very bad,bad,FAIL
+regular,excellent,bad,FAIL
+regular,excellent,average,PASS
+regular,excellent,bad,FAIL
+average,excellent,excellent,PASS
+average,excellent,below average,PASS
+average,excellent,excellent,PASS
+regular,good,bad,FAIL
+regular,excellent,excellent,PASS
+below average,excellent,average,PASS
+average,excellent,below average,PASS
+not regular,below average,bad,FAIL
+below average,excellent,good,PASS
+regular,good,excellent,PASS
+not regular,excellent,bad,FAIL
+not regular,excellent,excellent,PASS
+regular,below average,excellent,PASS
+average,excellent,bad,FAIL
+regular,average,below average,PASS
+not regular,excellent,below average,PASS
+not regular,excellent,below average,PASS
+average,excellent,bad,FAIL
+not regular,excellent,bad,FAIL
+average,below average,bad,FAIL
+regular,very bad,average,PASS
+average,excellent,average,PASS
+regular,excellent,below average,PASS
+not regular,excellent,average,PASS
+not regular,excellent,bad,FAIL
+average,good,average,PASS
+regular,excellent,bad,FAIL
+not regular,very bad,average,PASS
+not regular,below average,bad,FAIL
+not regular,excellent,bad,FAIL
+regular,excellent,below average,PASS
+not regular,absent,bad,FAIL
+not regular,very bad,bad,FAIL
+not regular,excellent,bad,FAIL
+average,excellent,average,PASS
+regular,very bad,bad,FAIL
+not regular,excellent,bad,FAIL
+not regular,excellent,bad,FAIL
+average,below average,bad,FAIL
+regular,excellent,bad,FAIL
+not regular,good,bad,FAIL
+regular,excellent,excellent,PASS
+regular,excellent,bad,FAIL
+below average,below average,bad,FAIL
+below average,excellent,bad,FAIL
+below average,good,bad,FAIL
+regular,excellent,bad,FAIL
+below average,very bad,good,PASS
+below average,below average,bad,FAIL
+below average,excellent,excellent,PASS
+regular,excellent,good,PASS
+not regular,below average,good,PASS
+regular,absent,bad,FAIL
+not regular,excellent,bad,FAIL
+not regular,excellent,bad,FAIL
+not regular,below average,bad,FAIL
+average,good,bad,FAIL
+average,excellent,bad,PASS
+below average,excellent,good,PASS
+not regular,below average,average,PASS
+not regular,good,average,PASS
+below average,below average,bad,FAIL
+

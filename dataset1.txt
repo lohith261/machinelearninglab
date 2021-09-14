@@ -1,0 +1,6 @@
+name,english,maths,science,social,total,pass
+tejaswi,95,92,89,85,391,yes
+manasa,78,87,90,92,347,yes
+arun,28,40,34,30,132,no
+kiran,38,42,49,50,179,yes
+dev,85,87,78,89,339,yes
